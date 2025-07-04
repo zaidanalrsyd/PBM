@@ -1,0 +1,181 @@
+{
+   "checksum": "385e11194f8b435fe9ad04f61e5da9f5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "2c1f9df2-7700-43e4-a7a4-30ea6e11d68c",
+            "id": "11",
+            "name": "eRapor_SD_2019 - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1uTo1SDq4kYBqETjVCrPu8hOAP9VH1kjv",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "21d2b2ba-2c36-4e0f-b6b7-bac66ce4f968",
+            "id": "12",
+            "name": "Edit PDF - Free PDF Editor Working Directly in your Browser",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://smallpdf.com/edit-pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "12656c1e-e31f-439f-9444-6ef7c020c9ac",
+            "id": "13",
+            "name": "   ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://newtab/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "e6008203-5644-45d8-8202-c4de36f67b14",
+            "id": "14",
+            "name": "REMEDIAL ULANGAN HARIAN BAB III: KETENAGAKERJAAN",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSefH_fAPelfYs-OdPP0mx7a-ELtBDj9CR7mPVxTrq3xhG4tig/formResponse",
+            "visit_count": 0
+         }, {
+            "date_added": "13233739422251828",
+            "date_last_used": "0",
+            "guid": "7d29d841-c5c7-4b46-81fc-c7fefbfc73e5",
+            "id": "15",
+            "name": "  ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://newtab/",
+            "visit_count": 0
+         }, {
+            "date_added": "13307492895054216",
+            "date_last_used": "0",
+            "guid": "058b6742-4730-4596-b772-7e08089d6894",
+            "id": "16",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13307492895056552",
+            "date_last_used": "0",
+            "guid": "87475336-f1dc-4e15-a355-62325f4cd701",
+            "id": "17",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13307492895056983",
+            "date_last_used": "0",
+            "guid": "6598738b-6a5e-4459-b54e-2ea5c9a41d3a",
+            "id": "18",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13396117002385763",
+            "date_last_used": "0",
+            "guid": "264fe501-ce47-4e4b-82c9-174aed89e3dc",
+            "id": "8",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13396117002385656",
+            "date_last_used": "0",
+            "guid": "5b90a51c-f7ae-4494-a8cb-b292ff8c128f",
+            "id": "7",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13396117002385285",
+            "date_last_used": "0",
+            "guid": "dc4cd1b7-4e3b-4e81-a400-569b34c06c08",
+            "id": "6",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13396117001747255",
+         "date_last_used": "0",
+         "date_modified": "13396117002385763",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13307491425432456",
+            "date_last_used": "0",
+            "date_modified": "13307491425432456",
+            "guid": "0d7031e1-b453-4a36-8f29-b911be4d552a",
+            "id": "9",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13307491425432588",
+            "date_last_used": "0",
+            "date_modified": "13307491425432588",
+            "guid": "ff242662-8d52-4150-9d04-e96192ab3253",
+            "id": "10",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13396117001747255",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13396117001747255",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCByrENaXAQAAKg4QABgBIAwoBjAAOABAABIAKhg0VXpqUFBEdFI5RzVhUXc2RHpBTzRBPT1IA6AGDBKtAQgSEqgBChxDRDNtK1RsWWdhZ293K2l5VW5VbmxvYWdlNk09EiQ2NTk4NzM4Yi02YTVlLTQ0NTktYjU0ZS0yZWE1YzlhNDFkM2EYACACKAIwj4TVsP0yOOzE9bnLMECDpNWw/TJKHE9jVjc1YWs1RitNMXIzVkJwYm9sUjJMbWY0az1aHyId/nUrclVCRHlJQ09tZTZRcXQ5WmdpTmVPMDQ0QT1lpPvomMI+AmAFEq0BCBESqAEKHG1aWVl2S0xMK3JKUzY1VzhpTU1Ea3hNSmhnRT0SJDg3NDc1MzM2LWYxZGMtNGUxNS1hMzU1LTYyMzI1ZjRjZDcwMRgAIAIoAjCNhNWw/TI44MP1ucswQIOk1bD9MkocTlFRQWNxd0JhSC9OTlg0dlZVZXRvSVFDOGVnPVofIh39OXptTGR5TlZZUjliRVhIdFZWYkRpeTAzOUhzPWU4+Tkzwj4CYAUSrQEIEBKoAQocZjY4Z3hrRlY5UFplZWxmbHp4OXVwZ3hDYm1JPRIkMDU4YjY3NDItNDczMC00NTk2LWI3NzItN2UwODA4OWQ2ODk0GAAgAigCMIyE1bD9MjiuxPW5yzBAgqTVsP0yShwyN3NsbFJ0bTlBVjFsQjZ5QzVzQlpWMVp3Tzg9Wh8iHfsxWTA5bGIvM29CRTNBMEZTSFJnVDVPUzVwTE09ZZs9hbbCPgJgBRKtAQgMEqgBChwxWVFCOTBISm5KYlh2aWJOOHpoMk5iT0dKdFE9EiQyMWQyYjJiYS0yYzM2LTRlMGYtYjZiNy1iYWM2NmNlNGY5NjgYACACKAIwi4TVsP0yOO/VvoOzMECBpNWw/TJKHHdBeVN1NEh2cVgwa1h6WXhTdytmLzZJaW16bz1aHyIdvFgvM2xFWitpR3BiVmd5d2FQTENZcGloUFB2dz1l6pSPRsI+AmAFEq0BCA8SqAEKHFcxYWlvWVU3MzNzMy9wclZvRFE1RmJrL3JjND0SJDdkMjlkODQxLWM1YzctNGI0Ni04MWZjLWM3ZmVmYmZjNzNlNRgAIAAoADChw/W5yzA4zcT1ucswQM3E9bnLMEocdWg0YXdUWW9FOWJseHF2Z3A0OU12S25TWm4wPVofIh33dWlvMjlTUDFrSzVjZSs5aDBuWkMxazkzblZrPWUAAAAAwj4CYAUSrQEIDhKoAQocd1hWZ0pHcEVyWDNKcVRRV2dkOFN6dzBPdkd3PRIkZTYwMDgyMDMtNTY0NC00NWQ4LTgyMDItYzRkZTM2ZjY3YjE0GAAgAigCMI6E1bD9MjjN1r6DszBAgqTVsP0yShxMajJvNU14ZGtma0pRQlpTdHZTMmNqMk81aXc9Wh8iHe9UcEFJTXM5a2JhMlNNejlTYVROMUJuV1JmZVE9ZaOtHF/CPgJgBRKtAQgNEqgBChw0N0psVC8rZDV1WE1aSjJHdk1iQ2hpRCtVNkk9EiQxMjY1NmMxZS1lMzFmLTQzOWYtOTQ0NC02ZWY3YzAyMGM5YWMYACAAKAAwntS+g7MwOPnXvoOzMED5176DszBKHEJZK29BUkoxb0d1UFJqbGo2aW1JaHYxZzA0QT1aHyId3mZnMk4xZDlNVi9NWVFNWndIaTNJT29pUUpuZz1lAAAAAMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDYxODgxZmJkLWEwYzItNWE5Mi05NzQ2LWVmZDRmMWI0NTUwZRgAIAAoADDro66DszA41aaug7MwQNWmroOzMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ0OWUwMGQwNi04OTZlLTVlODctYTY0OC1jMjRmZDMzNjBkYTUYACAAKAAw66Oug7MwOPSmroOzMED0pq6DszBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIChKoAQocd2lIUDF5SW5sUWM4TjZjN3VNK1ZWM3FVTUEwPRIkZmYyNDI2NjItOGQ1Mi00MTUwLTlkMDQtZTk2MTkyYWIzMjUzGAAgACgAMJ7UvoOzMDjQ1b6DszBA0NW+g7MwShx6dVlUbjEyZmJqeFJzV2lkZHdwODIwaUhaRzA9Wh8iHapMUHJUVk80bC9ENG5sT0tvamRuWkI5dk5hYmM9ZQAAAADCPgJgABKsAQgLEqcBChx6WGtGZE5yOHZNQWtVZnc2M3dQcCtzampUeGs9EiQyYzFmOWRmMi03NzAwLTQzZTQtYTdhNC0zMGVhNmUxMWQ2OGMYACACKAIwioTVsP0yOPzWvoOzMECApNWw/TJKHEo5NGs1MHhxVlg5QU1sTWhhWXRDSTduWEFjOD1aHiIceFFXVytTRmxDL0lpZU9POHZTL1hMcVRYWURBPWW6CixRwj4CYAUSrAEICRKnAQocSlI3cUFnMGJaZ05DTjRNc21LR3gxR2hRMlBZPRIkMGQ3MDMxZTEtYjQ1My00YTM2LThmMjktYjkxMWJlNGQ1NTJhGAAgACgAMJ7UvoOzMDib176DszBAm9e+g7MwShxBRnh0UEJSSzZlZVU4aHVFS2NNWExrYk5yc0E9Wh4iHFUwbEo0OUs3ODRzSnVWcjI3c3NWYXRNbjBMTT1lAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDAxZTU2MTIwLTFjNjktNTk0NC1iNTY3LTRmM2NhNzFjODg4YxgAIAAoADDro66DszA4v6iug7MwQL+oroOzMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
